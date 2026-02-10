@@ -2,17 +2,25 @@ Hey! I'm *@TheEpicStudent* - -
 
 What I'm currently working on:
 
-- **School Studies**
-A website that focuses on relaxing music, sounds, and more to help people study better.
+- **Wallpaper Creator**\
+A website I created to help people create custom wallpapers for their phones without downloading any apps or seeing any ads.\
+**You can currently reach it at [www.wallpapercreator.me](https://www.wallpapercreator.me)!**
 
-- **PromoFinder**
-Helps people find promo codes for services or products to save money before buying.
+- **Coffee Score**\
+This website lets you know how much of a coffee addict you are based on how much coffee per day, where you get your coffee, and more. *(Working On)*
 
-- **Coffee Score**
-This website lets you know how much of a coffee addict you are based on how much coffee per day, where you get your coffee, and more.
+Projects I abandoned for one reason or another:
+
+- **School Studies**\
+A website that focuses on relaxing music, sounds, and more to help people study better. *(Abandoned)*
+
+- **PromoFinder**\
+Helps people find promo codes for services or products to save money before buying. *(Abandoned)*
 
 
-<img width="453" height="262" alt="Screenshot 2026-01-25 at 2 52 45 PM" src="https://github.com/user-attachments/assets/504e0262-b7aa-4943-aee0-489e2b850349" />
+
+
+
 
 
 
