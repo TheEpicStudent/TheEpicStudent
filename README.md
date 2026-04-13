@@ -2,6 +2,10 @@ Hey! I'm *@TheEpicStudent* - -
 
 What I'm currently working on:
 
+- **MusiWeb**\
+A VLC inspired music player in your web browser!\
+*Preview at [musiweb.onrender.com](https://musiweb.onrender.com)*
+
 - **Wallpaper Creator**\
 A website I created to help people create custom wallpapers for their phones without downloading any apps or seeing any ads.\
 **You can currently reach it at [www.wallpapercreator.me](https://www.wallpapercreator.me)!**
