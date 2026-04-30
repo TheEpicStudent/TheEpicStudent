@@ -1,5 +1,7 @@
 Hey! I'm *@TheEpicStudent* - -
 
+I program mostly in Javascript, HTML, and CSS. I love making free web apps that are accessible to the public **without** ads.
+
 What I'm currently working on:
 
 - **MusiWeb**\
